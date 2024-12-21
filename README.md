@@ -1,0 +1,1 @@
+The application is designed for real-time prediction based on Turkish Sign Language. In the project, the RandomForestClassifier model was used for training. The project does not include a dataset or a trained model.
